@@ -1,0 +1,10 @@
+langchain 
+langchain_experimental 
+langchain-community==0.3.15 
+neo4j 
+langchain_ibm 
+jupyterlab 
+json-repair 
+getpass4
+langchain-google-genai
+google-generativeai
